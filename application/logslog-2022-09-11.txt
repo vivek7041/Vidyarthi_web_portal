@@ -1,0 +1,317 @@
+INFO - 2022-09-11 16:01:41 --> Config Class Initialized
+INFO - 2022-09-11 16:01:41 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:01:41 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:01:41 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:01:41 --> URI Class Initialized
+INFO - 2022-09-11 16:01:41 --> Router Class Initialized
+INFO - 2022-09-11 16:01:41 --> Output Class Initialized
+INFO - 2022-09-11 16:01:41 --> Security Class Initialized
+DEBUG - 2022-09-11 16:01:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:01:41 --> Input Class Initialized
+INFO - 2022-09-11 16:01:41 --> Language Class Initialized
+INFO - 2022-09-11 16:01:41 --> Loader Class Initialized
+INFO - 2022-09-11 16:01:41 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:01:41 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:01:41 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:01:41 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:01:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:01:41 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:01:41 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:01:41 --> Controller Class Initialized
+INFO - 2022-09-11 16:01:41 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:01:41 --> File loaded: C:\xampp\htdocs\school-education\CodeIgniter\application\views\fetch_stu_data.php
+INFO - 2022-09-11 16:01:41 --> Final output sent to browser
+DEBUG - 2022-09-11 16:01:41 --> Total execution time: 0.0640
+INFO - 2022-09-11 16:02:06 --> Config Class Initialized
+INFO - 2022-09-11 16:02:06 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:02:06 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:02:06 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:02:06 --> URI Class Initialized
+INFO - 2022-09-11 16:02:06 --> Router Class Initialized
+INFO - 2022-09-11 16:02:06 --> Output Class Initialized
+INFO - 2022-09-11 16:02:06 --> Security Class Initialized
+DEBUG - 2022-09-11 16:02:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:02:06 --> Input Class Initialized
+INFO - 2022-09-11 16:02:06 --> Language Class Initialized
+INFO - 2022-09-11 16:02:06 --> Loader Class Initialized
+INFO - 2022-09-11 16:02:06 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:02:06 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:02:06 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:02:06 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:02:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:02:06 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:02:06 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:02:06 --> Controller Class Initialized
+INFO - 2022-09-11 16:02:06 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:02:06 --> File loaded: C:\xampp\htdocs\school-education\CodeIgniter\application\views\login.php
+INFO - 2022-09-11 16:02:06 --> Final output sent to browser
+DEBUG - 2022-09-11 16:02:06 --> Total execution time: 0.0660
+INFO - 2022-09-11 16:02:14 --> Config Class Initialized
+INFO - 2022-09-11 16:02:14 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:02:14 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:02:14 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:02:14 --> URI Class Initialized
+INFO - 2022-09-11 16:02:14 --> Router Class Initialized
+INFO - 2022-09-11 16:02:14 --> Output Class Initialized
+INFO - 2022-09-11 16:02:14 --> Security Class Initialized
+DEBUG - 2022-09-11 16:02:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:02:14 --> Input Class Initialized
+INFO - 2022-09-11 16:02:14 --> Language Class Initialized
+INFO - 2022-09-11 16:02:14 --> Loader Class Initialized
+INFO - 2022-09-11 16:02:14 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:02:14 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:02:14 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:02:14 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:02:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:02:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:02:14 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:02:14 --> Controller Class Initialized
+INFO - 2022-09-11 16:02:14 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:02:14 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2022-09-11 16:02:15 --> Config Class Initialized
+INFO - 2022-09-11 16:02:15 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:02:15 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:02:15 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:02:15 --> URI Class Initialized
+INFO - 2022-09-11 16:02:15 --> Router Class Initialized
+INFO - 2022-09-11 16:02:15 --> Output Class Initialized
+INFO - 2022-09-11 16:02:15 --> Security Class Initialized
+DEBUG - 2022-09-11 16:02:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:02:15 --> Input Class Initialized
+INFO - 2022-09-11 16:02:15 --> Language Class Initialized
+INFO - 2022-09-11 16:02:15 --> Loader Class Initialized
+INFO - 2022-09-11 16:02:15 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:02:15 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:02:15 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:02:15 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:02:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:02:15 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:02:15 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:02:15 --> Controller Class Initialized
+INFO - 2022-09-11 16:02:15 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:02:15 --> File loaded: C:\xampp\htdocs\school-education\CodeIgniter\application\views\login.php
+INFO - 2022-09-11 16:02:15 --> Final output sent to browser
+DEBUG - 2022-09-11 16:02:15 --> Total execution time: 0.0670
+INFO - 2022-09-11 16:02:23 --> Config Class Initialized
+INFO - 2022-09-11 16:02:23 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:02:23 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:02:23 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:02:23 --> URI Class Initialized
+INFO - 2022-09-11 16:02:23 --> Router Class Initialized
+INFO - 2022-09-11 16:02:23 --> Output Class Initialized
+INFO - 2022-09-11 16:02:23 --> Security Class Initialized
+DEBUG - 2022-09-11 16:02:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:02:23 --> Input Class Initialized
+INFO - 2022-09-11 16:02:23 --> Language Class Initialized
+INFO - 2022-09-11 16:02:23 --> Loader Class Initialized
+INFO - 2022-09-11 16:02:23 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:02:23 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:02:23 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:02:23 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:02:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:02:23 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:02:23 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:02:23 --> Controller Class Initialized
+INFO - 2022-09-11 16:02:23 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:02:23 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2022-09-11 16:02:23 --> Config Class Initialized
+INFO - 2022-09-11 16:02:23 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:02:23 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:02:23 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:02:23 --> URI Class Initialized
+INFO - 2022-09-11 16:02:23 --> Router Class Initialized
+INFO - 2022-09-11 16:02:23 --> Output Class Initialized
+INFO - 2022-09-11 16:02:23 --> Security Class Initialized
+DEBUG - 2022-09-11 16:02:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:02:23 --> Input Class Initialized
+INFO - 2022-09-11 16:02:23 --> Language Class Initialized
+INFO - 2022-09-11 16:02:23 --> Loader Class Initialized
+INFO - 2022-09-11 16:02:23 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:02:23 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:02:23 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:02:23 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:02:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:02:23 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:02:23 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:02:23 --> Controller Class Initialized
+INFO - 2022-09-11 16:02:23 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:02:23 --> File loaded: C:\xampp\htdocs\school-education\CodeIgniter\application\views\login.php
+INFO - 2022-09-11 16:02:23 --> Final output sent to browser
+DEBUG - 2022-09-11 16:02:23 --> Total execution time: 0.0550
+INFO - 2022-09-11 16:02:47 --> Config Class Initialized
+INFO - 2022-09-11 16:02:47 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:02:47 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:02:47 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:02:47 --> URI Class Initialized
+INFO - 2022-09-11 16:02:47 --> Router Class Initialized
+INFO - 2022-09-11 16:02:47 --> Output Class Initialized
+INFO - 2022-09-11 16:02:47 --> Security Class Initialized
+DEBUG - 2022-09-11 16:02:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:02:47 --> Input Class Initialized
+INFO - 2022-09-11 16:02:47 --> Language Class Initialized
+INFO - 2022-09-11 16:02:47 --> Loader Class Initialized
+INFO - 2022-09-11 16:02:47 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:02:47 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:02:47 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:02:47 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:02:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:02:47 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:02:47 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:02:47 --> Controller Class Initialized
+INFO - 2022-09-11 16:02:47 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:02:47 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2022-09-11 16:02:47 --> Config Class Initialized
+INFO - 2022-09-11 16:02:47 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:02:47 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:02:47 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:02:47 --> URI Class Initialized
+INFO - 2022-09-11 16:02:47 --> Router Class Initialized
+INFO - 2022-09-11 16:02:47 --> Output Class Initialized
+INFO - 2022-09-11 16:02:47 --> Security Class Initialized
+DEBUG - 2022-09-11 16:02:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:02:47 --> Input Class Initialized
+INFO - 2022-09-11 16:02:47 --> Language Class Initialized
+INFO - 2022-09-11 16:02:47 --> Loader Class Initialized
+INFO - 2022-09-11 16:02:47 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:02:47 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:02:47 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:02:47 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:02:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:02:47 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:02:47 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:02:47 --> Controller Class Initialized
+INFO - 2022-09-11 16:02:47 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:02:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-09-11 16:02:47 --> Pagination Class Initialized
+INFO - 2022-09-11 16:02:47 --> File loaded: C:\xampp\htdocs\school-education\CodeIgniter\application\views\student-dashboard.php
+INFO - 2022-09-11 16:02:47 --> Final output sent to browser
+DEBUG - 2022-09-11 16:02:47 --> Total execution time: 0.0630
+INFO - 2022-09-11 16:02:48 --> Config Class Initialized
+INFO - 2022-09-11 16:02:48 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:02:48 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:02:48 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:02:48 --> URI Class Initialized
+INFO - 2022-09-11 16:02:48 --> Router Class Initialized
+INFO - 2022-09-11 16:02:48 --> Output Class Initialized
+INFO - 2022-09-11 16:02:48 --> Security Class Initialized
+DEBUG - 2022-09-11 16:02:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:02:48 --> Input Class Initialized
+INFO - 2022-09-11 16:02:48 --> Language Class Initialized
+INFO - 2022-09-11 16:02:48 --> Loader Class Initialized
+INFO - 2022-09-11 16:02:48 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:02:48 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:02:48 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:02:48 --> Database Driver Class Initialized
+INFO - 2022-09-11 16:02:48 --> Config Class Initialized
+INFO - 2022-09-11 16:02:48 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:02:48 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:02:48 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:02:48 --> URI Class Initialized
+INFO - 2022-09-11 16:02:48 --> Router Class Initialized
+INFO - 2022-09-11 16:02:48 --> Output Class Initialized
+INFO - 2022-09-11 16:02:48 --> Security Class Initialized
+DEBUG - 2022-09-11 16:02:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:02:48 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:02:48 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:02:48 --> Controller Class Initialized
+INFO - 2022-09-11 16:02:48 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:02:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-09-11 16:02:48 --> Pagination Class Initialized
+INFO - 2022-09-11 16:02:48 --> File loaded: C:\xampp\htdocs\school-education\CodeIgniter\application\views\student-dashboard.php
+INFO - 2022-09-11 16:02:48 --> Final output sent to browser
+DEBUG - 2022-09-11 16:02:48 --> Total execution time: 0.1460
+DEBUG - 2022-09-11 16:02:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:02:48 --> Input Class Initialized
+INFO - 2022-09-11 16:02:48 --> Language Class Initialized
+ERROR - 2022-09-11 16:02:48 --> 404 Page Not Found: Welcome/dynamic%20img%20generation
+INFO - 2022-09-11 16:03:42 --> Config Class Initialized
+INFO - 2022-09-11 16:03:42 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:03:42 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:03:42 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:03:42 --> URI Class Initialized
+INFO - 2022-09-11 16:03:42 --> Router Class Initialized
+INFO - 2022-09-11 16:03:42 --> Output Class Initialized
+INFO - 2022-09-11 16:03:42 --> Security Class Initialized
+DEBUG - 2022-09-11 16:03:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:03:42 --> Input Class Initialized
+INFO - 2022-09-11 16:03:42 --> Language Class Initialized
+INFO - 2022-09-11 16:03:42 --> Loader Class Initialized
+INFO - 2022-09-11 16:03:42 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:03:42 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:03:42 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:03:42 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:03:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:03:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:03:42 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:03:42 --> Controller Class Initialized
+INFO - 2022-09-11 16:03:42 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:03:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-09-11 16:03:42 --> Pagination Class Initialized
+INFO - 2022-09-11 16:03:42 --> File loaded: C:\xampp\htdocs\school-education\CodeIgniter\application\views\student-dashboard.php
+INFO - 2022-09-11 16:03:42 --> Final output sent to browser
+DEBUG - 2022-09-11 16:03:42 --> Total execution time: 0.1160
+INFO - 2022-09-11 16:03:42 --> Config Class Initialized
+INFO - 2022-09-11 16:03:42 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:03:42 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:03:42 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:03:42 --> URI Class Initialized
+INFO - 2022-09-11 16:03:42 --> Router Class Initialized
+INFO - 2022-09-11 16:03:42 --> Output Class Initialized
+INFO - 2022-09-11 16:03:42 --> Security Class Initialized
+DEBUG - 2022-09-11 16:03:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:03:42 --> Input Class Initialized
+INFO - 2022-09-11 16:03:42 --> Language Class Initialized
+ERROR - 2022-09-11 16:03:42 --> 404 Page Not Found: Welcome/dynamic%20img%20generation
+INFO - 2022-09-11 16:03:42 --> Config Class Initialized
+INFO - 2022-09-11 16:03:42 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:03:42 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:03:42 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:03:42 --> URI Class Initialized
+INFO - 2022-09-11 16:03:42 --> Router Class Initialized
+INFO - 2022-09-11 16:03:42 --> Output Class Initialized
+INFO - 2022-09-11 16:03:42 --> Security Class Initialized
+DEBUG - 2022-09-11 16:03:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:03:42 --> Input Class Initialized
+INFO - 2022-09-11 16:03:42 --> Language Class Initialized
+INFO - 2022-09-11 16:03:42 --> Loader Class Initialized
+INFO - 2022-09-11 16:03:42 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:03:42 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:03:42 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:03:42 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:03:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:03:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:03:42 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:03:42 --> Controller Class Initialized
+INFO - 2022-09-11 16:03:42 --> Model "loginmodel" initialized
+INFO - 2022-09-11 16:03:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-09-11 16:03:42 --> Pagination Class Initialized
+INFO - 2022-09-11 16:03:42 --> File loaded: C:\xampp\htdocs\school-education\CodeIgniter\application\views\student-dashboard.php
+INFO - 2022-09-11 16:03:42 --> Final output sent to browser
+DEBUG - 2022-09-11 16:03:42 --> Total execution time: 0.1870
+INFO - 2022-09-11 16:04:37 --> Config Class Initialized
+INFO - 2022-09-11 16:04:37 --> Hooks Class Initialized
+DEBUG - 2022-09-11 16:04:37 --> UTF-8 Support Enabled
+INFO - 2022-09-11 16:04:37 --> Utf8 Class Initialized
+INFO - 2022-09-11 16:04:37 --> URI Class Initialized
+DEBUG - 2022-09-11 16:04:37 --> No URI present. Default controller set.
+INFO - 2022-09-11 16:04:37 --> Router Class Initialized
+INFO - 2022-09-11 16:04:37 --> Output Class Initialized
+INFO - 2022-09-11 16:04:37 --> Security Class Initialized
+DEBUG - 2022-09-11 16:04:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-09-11 16:04:37 --> Input Class Initialized
+INFO - 2022-09-11 16:04:37 --> Language Class Initialized
+INFO - 2022-09-11 16:04:37 --> Loader Class Initialized
+INFO - 2022-09-11 16:04:37 --> Helper loaded: url_helper
+INFO - 2022-09-11 16:04:37 --> Helper loaded: form_helper
+INFO - 2022-09-11 16:04:37 --> Helper loaded: html_helper
+INFO - 2022-09-11 16:04:37 --> Database Driver Class Initialized
+DEBUG - 2022-09-11 16:04:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-09-11 16:04:37 --> Session: Class initialized using 'files' driver.
+INFO - 2022-09-11 16:04:37 --> Form Validation Class Initialized
+INFO - 2022-09-11 16:04:37 --> Controller Class Initialized
+INFO - 2022-09-11 16:04:37 --> File loaded: C:\xampp\htdocs\school-education\CodeIgniter\application\views\index.php
+ERROR - 2022-09-11 16:04:37 --> error message in this line
+DEBUG - 2022-09-11 16:04:37 --> debug message in this line
+INFO - 2022-09-11 16:04:37 --> Index function call and info message in this line
+INFO - 2022-09-11 16:04:37 --> Final output sent to browser
+DEBUG - 2022-09-11 16:04:37 --> Total execution time: 0.0620
